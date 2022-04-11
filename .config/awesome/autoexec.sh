@@ -1,6 +1,5 @@
 polybar &
-nitrogen  --restore &
-picom  &
+picom 2>&1 | tee .picom.log &
 
 
 st
