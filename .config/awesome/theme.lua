@@ -7,7 +7,7 @@ local theme = {}
 theme.font          = "JetBrainsMono Nerd Font 10"
 theme.font_name     = "JetBrainsMono Nerd Font "
 
-theme.wallpaper = "~/Wallpapers/green.png"
+theme.wallpaper = "~/Wallpapers/nature-pixelart.png"
 
 theme.bg_normal     = "#222222"
 theme.bg_focus      = "#535d6D"
